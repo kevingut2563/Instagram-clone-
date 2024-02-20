@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  body{
+    background-color: black;
+    
+  }
+  .protest-revolution-regular {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  h1{
+    color: white;
+    .protest-revolution-regular {
+      font-family: "Protest Revolution", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+  }
+  i{
+    color: white;
+  }
+  img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  h3{
+    color: white;
+  }
+
+  .black{
+    border-radius: 0%;
+    width: 1000px;
+
+
+  }
+
+  .footer{
+    
+  }
+
+  body{}
+.instagramContainer{}
+.instagram-header{}
+.carousel-images{}
+.lower.header{}
+.center-staged{}
